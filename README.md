@@ -1,6 +1,6 @@
 <h1>Hi, I'm Benjamin! <br/><a href="https://github.com/babbott-code">Cloud Specialist</a>, <a href="https://www.linkedin.com/in/benjamin-abbott-bb15b7a3/">
 <h2>👨‍💻 Cloud Projects:</h2>
-- Akamai Connected Cloud<br />
+Akamai Connected Cloud<br />
   - <a href="">Deploy and Secure Virtual Instance</a><br />
   - <a href="">Deploy and Secure Virtual Instance Using Terraform</a><br />
   
