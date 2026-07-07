@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 <h3>AWS - Amazon Web Services</h3><br />
-- 
+- <a href="https://github.com/babbott-code/s3-static-site">Static site hosted on S3, served via CloudFront with ACM/TLS and Route 53 DNS</a>
 
 <h2>Certifications</h2>
 - Linux Essentials<br />
